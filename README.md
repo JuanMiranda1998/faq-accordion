@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github Repository](https://github.com/JuanMiranda1998/faq-accordion.git)
+- Solution URL: [Github Repository](https://github.com/JuanMiranda1998/faq-accordion)
 - Live Site URL: [Netlify Live Page](https://f-mentor-faq-accordion.netlify.app/)
 
 
